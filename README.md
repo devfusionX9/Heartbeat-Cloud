@@ -122,7 +122,9 @@ git pull origin main
 
 ## Author
 
+## 📸 System Preview
 
+![Telegram Bot](screenshots/telegram_bot.png)
 
 
 
