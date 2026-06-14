@@ -8,6 +8,10 @@ AutoMatrix Heartbeat Cloud is a lightweight server monitoring bot designed to ke
 
 The bot periodically collects system metrics and sends notifications about server health, resource usage, and application activity.
 
+## Simple lounch
+
+nohup python3 /home/your_home_user_name/telbot/bot.py >/dev/null 2>/home/your_home_user_name/telbot/bot.err &
+
 ---
 
 ## Features
